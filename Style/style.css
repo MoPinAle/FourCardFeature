@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(0, 0%, 98%);
+}
+
+.titulo {
+    color: hsl(234, 12%, 34%);
+    font-weight: 200;
+}
+
+.titulo2 {
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+
+.titulo3 {
+    color: hsl(234, 12%, 34%);
+    font-weight: 200;
+}
+
+.subtitulo {
+    color: hsl(229, 6%, 66%);
+}
+
+#main-header {
+    text-align: center;
+}
+
+.borda-topo-cyan {
+    border-top: hsl(180, 62%, 55%) solid 2px;
+}
+
+.borda-topo-red {
+    border-top: hsl(0, 78%, 62%) solid 2px;
+}
+
+.borda-topo-blue {
+    border-top: hsl(212, 86%, 64%) solid 2px;
+}
+
+.borda-topo-orange {
+    border-top: hsl(34, 97%, 64%) solid 2px;
+}
+
+.imagem {
+    float: right;
+}
+
+.borda-bottom {
+    box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
+}
+
